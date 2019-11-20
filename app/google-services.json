@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "130706775795",
+    "firebase_url": "https://notification-fcm-php-mysql.firebaseio.com",
+    "project_id": "notification-fcm-php-mysql",
+    "storage_bucket": "notification-fcm-php-mysql.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130706775795:android:4d7ad9c777fa50e5642186",
+        "android_client_info": {
+          "package_name": "com.example.notificationfcmphpmysql"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130706775795-4e8g9u16tc9fmaimtncdss3gft4e8bd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notificationfcmphpmysql",
+            "certificate_hash": "7f2737cf19c3a4a19dcffdbeec612505c7176950"
+          }
+        },
+        {
+          "client_id": "130706775795-c1sifgh7fo3v7fkelg0k21ttpmgrs7lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlaXNxREGtC23tmZSbUYCxqT1J093Vuco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130706775795-c1sifgh7fo3v7fkelg0k21ttpmgrs7lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
